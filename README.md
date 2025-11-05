@@ -14,6 +14,8 @@ The project was proposed and funded in **Catalyst Fund 12** under the "Cardano P
 - `/KEY INFORMATION DOCUMENT.pdf`: [Milestone 2](https://github.com/Maetti79/Finest_200109/blob/main/KEY%20INFORMATION%20DOCUMENT.pdf)
 - `/Factsheet - Electronic Security.pdf)`: [Milestone 2](https://github.com/Maetti79/Finest_200109/blob/main/Factsheet%20%E2%80%93%20Electronic%20Security.pdf)
 - `/Wertpapierinformationsblatt.pdf`: [Milestone 2](https://github.com/Maetti79/Finest_200109/blob/main/Wertpapierinformationsblatt.pdf)
+- `/Finest_Responses to reviewers milestone 2.pdf`: [Milestone 2](https://github.com/Maetti79/Finest_200109/blob/main/Finest_Responses%20to%20reviewers%20milestone%202.pdf)
+- `/Finest_Electronic Security Factsheet_TRA(30.10)_Updated051125.pdf`: [Milestone 2](https://github.com/Maetti79/Finest_200109/blob/main/Finest_Electronic%20Security%20Factsheet_TRA(30.10)_Updated051125.pdf)
 - `/README.md`: This file
 
 ## 🔍 Verification & Transparency
